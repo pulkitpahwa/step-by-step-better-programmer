@@ -30,6 +30,8 @@
 #    UVWX
 #    YZ  
 
+# Link : https://www.hackerrank.com/challenges/text-wrap
+
 import textwrap
 string = raw_input()
 length = input()

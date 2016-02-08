@@ -54,7 +54,8 @@
 #   ------------.|.------------
 #   Note: 
 #   More than 6 lines of code will result in a score of 0. Comment lines are counted. Blank lines are not counted.
-
+#
+#   Link : https://www.hackerrank.com/challenges/designer-door-mat
 
 n,m = map(int, raw_input().split())
 for i in xrange(n/2) :
